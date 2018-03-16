@@ -10,4 +10,20 @@ font-weight:bold;
 }
 .font1 {
 font-family:cursive;
-font-weight:lighter;}
+font-weight:lighter;
+}
+img {
+  resize: both;
+  border-style:double;
+  border-radius: 10px;
+  border: 2px;
+  padding: 4px;
+  margin: 8px;
+  background-color: rgb(30,144,255);
+  float: left;
+  margin-right:30px;
+
+}
+.float1{
+  float: left;
+}
